@@ -2,5 +2,7 @@ Heya, I make games when I'm not working on this stuff, so check out my itch.io w
   
 https://sodiumtsss.itch.io
 
+All repositories also mirrored to: [gitlab.ernests.id.lv/sodiumTsss](https://gitlab.ernests.id.lv/sodiumTsss)
+
 ----
 Currently I'm working on my homebrew [audio player based on an stm32](https://github.com/sodiumts/stplayer)
