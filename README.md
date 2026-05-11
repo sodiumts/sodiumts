@@ -5,6 +5,6 @@ https://sodiumtsss.itch.io
 All repositories also mirrored to: [gitlab.ernests.id.lv/explore/projects/active](https://gitlab.ernests.id.lv/explore/projects/active)
 
 ----
-Currently I'm working on extending the functionality of the Matrix client - nheko with MatrixRTC calls: [nheko MatrixRTC](github.com/sodiumts/nheko)  
+Currently I'm working on extending the functionality of the Matrix client - nheko with MatrixRTC calls: [nheko MatrixRTC](https://github.com/sodiumts/nheko)  
   
 On hold: my homebrew [audio player based on an stm32](https://github.com/sodiumts/stplayer)
